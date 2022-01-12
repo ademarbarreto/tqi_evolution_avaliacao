@@ -34,7 +34,6 @@ Foi criado uma API para fazer o cadastramento de clientes e de concessão de emp
 
 Observação: No implantando a interface de Login e também o detalhamento do empréstimo
 
-
 ## Pacotes utilizadas:
 
 * Banco de dados H2: Banco de dados completo, com a vantagem de rodar em memória
@@ -79,6 +78,11 @@ dependencies {
 * testImplementation 'org.springframework.security:spring-security-test:5.5.1'
 
 }
+
+## Documentação da API através do Swagger
+
+![img_6.png](img_6.png)
+
 
 ## Exemplo de endpoints
 
